@@ -70,17 +70,18 @@ SMODS.DeckSkin {
             key = 'lc',
             ranks = { "Jack", "Queen", "King" },
             display_ranks = { "Jack", "Queen", "King" },
-            atlas = "balatro_hearts_1",
+            atlas = "balx_balatro_hearts_1",
             pos_style = "collab"
         },
         {
             key = 'hc',
             ranks = { "Jack", "Queen", "King" },
             display_ranks = { "Jack", "Queen", "King" },
-            atlas = "balatro_hearts_2",
+            atlas = "balx_balatro_hearts_2",
             pos_style = "collab"
         }
     },
+    atlas= "DeckSkin",
     loc_txt = {
         ["en-us"] = "Balatro"
     },
@@ -94,17 +95,18 @@ SMODS.DeckSkin {
             key = 'lc',
             ranks = { "Jack", "Queen", "King" },
             display_ranks = { "Jack", "Queen", "King" },
-            atlas = "balatro_spades_1",
+            atlas = "balx_balatro_spades_1",
             pos_style = "collab"
         },
         {
             key = 'hc',
             ranks = { "Jack", "Queen", "King" },
             display_ranks = { "Jack", "Queen", "King" },
-            atlas = "balatro_spades_2",
+            atlas = "balx_balatro_spades_2",
             pos_style = "collab"
         }
     },
+    atlas= "DeckSkin",
     loc_txt = {
         ["en-us"] = "Balatro"
     },
@@ -118,17 +120,18 @@ SMODS.DeckSkin {
             key = 'lc',
             ranks = { "Jack", "Queen", "King" },
             display_ranks = { "Jack", "Queen", "King" },
-            atlas = "balatro_diamonds_1",
+            atlas = "balx_balatro_diamonds_1",
             pos_style = "collab"
         },
         {
             key = 'hc',
             ranks = { "Jack", "Queen", "King" },
             display_ranks = { "Jack", "Queen", "King" },
-            atlas = "balatro_diamonds_2",
+            atlas = "balx_balatro_diamonds_2",
             pos_style = "collab"
         }
     },
+    atlas= "DeckSkin",
     loc_txt = {
         ["en-us"] = "Balatro"
     },
@@ -142,17 +145,19 @@ SMODS.DeckSkin {
             key = 'lc',
             ranks = { "Jack", "Queen", "King" },
             display_ranks = { "Jack", "Queen", "King" },
-            atlas = "balatro_clubs_1",
+            atlas = "balx_balatro_clubs_1",
             pos_style = "collab"
         },
         {
             key = 'hc',
             ranks = { "Jack", "Queen", "King" },
             display_ranks = { "Jack", "Queen", "King" },
-            atlas = "balatro_clubs_2",
-            pos_style = "collab"
+            atlas = "balx_balatro_clubs_2",
+            pos_style = "collab",
+            hc_default = true,
         }
     },
+    atlas= "DeckSkin",
     loc_txt = {
         ["en-us"] = "Balatro"
     },
