@@ -68,15 +68,15 @@ SMODS.DeckSkin {
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+            ranks = { "King", "Queen", "Jack" },
+            display_ranks = { "King", "Queen", "Jack" },
             atlas = "balx_balatro_hearts_1",
             pos_style = "collab"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+            ranks = { "King", "Queen", "Jack" },
+            display_ranks = { "King", "Queen", "Jack" },
             atlas = "balx_balatro_hearts_2",
             pos_style = "collab"
         }
@@ -93,15 +93,15 @@ SMODS.DeckSkin {
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+            ranks = { "King", "Queen", "Jack" },
+            display_ranks = { "King", "Queen", "Jack" },
             atlas = "balx_balatro_spades_1",
             pos_style = "collab"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+            ranks = { "King", "Queen", "Jack" },
+            display_ranks = { "King", "Queen", "Jack" },
             atlas = "balx_balatro_spades_2",
             pos_style = "collab"
         }
@@ -118,15 +118,15 @@ SMODS.DeckSkin {
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+            ranks = { "King", "Queen", "Jack" },
+            display_ranks = { "King", "Queen", "Jack" },
             atlas = "balx_balatro_diamonds_1",
             pos_style = "collab"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+            ranks = { "King", "Queen", "Jack" },
+            display_ranks = { "King", "Queen", "Jack" },
             atlas = "balx_balatro_diamonds_2",
             pos_style = "collab"
         }
@@ -143,15 +143,15 @@ SMODS.DeckSkin {
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+            ranks = { "King", "Queen", "Jack" },
+            display_ranks = { "King", "Queen", "Jack" },
             atlas = "balx_balatro_clubs_1",
             pos_style = "collab"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+            ranks = { "King", "Queen", "Jack" },
+            display_ranks = { "King", "Queen", "Jack" },
             atlas = "balx_balatro_clubs_2",
             pos_style = "collab",
             hc_default = true,
